@@ -1,4 +1,4 @@
-# geoModel
+# geoMODEL
 Gamagora 2019 - Modélisation Géométrique
 
 *Compilation des TP de Modélisation Géométrique*
