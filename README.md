@@ -15,7 +15,7 @@ Génération Procédurale de Meshs :
 Création de modèles volumiques :
 - Sphère
 - Quadrique
-Ajout de fonctionnalités d'Intersection et d'Union
+- Ajout de fonctionnalités d'Intersection et d'Union
 
 ## TP 3 :
 Récapitulatif :
