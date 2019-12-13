@@ -11,7 +11,9 @@ Génération Procédurale de Meshs :
 - Cone (avec troncage possible)
 - Sphere
 
-<img src="/First_Project/Assets/Img/Cube.PNG" data-canonical-src="/First_Project/Assets/Img/Cube.PNG" width="299" height="299" /> <img src="/First_Project/Assets/Img/Capsule.PNG" data-canonical-src="/First_Project/Assets/Img/Capsule.PNG" width="299" height="299" /> <img src="/First_Project/Assets/Img/Cone.PNG" data-canonical-src="/First_Project/Assets/Img/Cone.PNG" width="299" height="299" /> <img src="/First_Project/Assets/Img/Sphère.PNG" data-canonical-src="/First_Project/Assets/Img/Sphère.PNG" width="299" height="299" />
+<img src="/First_Project/Assets/Img/Cube.PNG" data-canonical-src="/First_Project/Assets/Img/Cube.PNG" width="199" height="199" /> <img src="/First_Project/Assets/Img/Capsule.PNG" data-canonical-src="/First_Project/Assets/Img/Capsule.PNG" width="299" height="199" /> 
+
+<img src="/First_Project/Assets/Img/Cone.PNG" data-canonical-src="/First_Project/Assets/Img/Cone.PNG" width="259" height="199" /> <img src="/First_Project/Assets/Img/Sphère.PNG" data-canonical-src="/First_Project/Assets/Img/Sphère.PNG" width="219" height="199" />
 
 ## TP 2 :
 Création de modèles volumiques :
