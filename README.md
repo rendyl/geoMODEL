@@ -24,7 +24,7 @@ Création de modèles volumiques :
 - Sphère
 
 ![Sphère Volumique](/First_Project/Assets/Img/VolumicSphere.PNG)
-- Quadrique
+- Quadrique (Ellipsoide, Hyperboloide)
 
 <img src="/First_Project/Assets/Img/Ellipsoide.PNG" data-canonical-src="/First_Project/Assets/Img/Ellipsoide.PNG" width="299" height="299" /> <img src="/First_Project/Assets/Img/Hyperbole.PNG" data-canonical-src="/First_Project/Assets/Img/Hyperbole.PNG" width="299" height="299" />
 - Ajout de fonctionnalités d'Intersection et d'Union
