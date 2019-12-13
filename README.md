@@ -44,7 +44,7 @@ Méthode de simplification de maillage
 ## TP 5 :
 Méthode de subdivision de maillage (Chaikin en 2D)
 
-![Chaikin](/First_Project/Assets/Img/Chaikin.PNG)
+<img src="/First_Project/Assets/Img/Chaikin.PNG" data-canonical-src="/First_Project/Assets/Img/Chaikin.PNG" width="199" height="199" />
 
 ## TP 6 :
 Courbes Paramétriques :
