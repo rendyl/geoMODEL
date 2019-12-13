@@ -20,6 +20,7 @@ Création de modèles volumiques :
 - Sphère
 
 <img src="/First_Project/Assets/Img/VolumicSphere.PNG" data-canonical-src="/First_Project/Assets/Img/VolumicSphere.PNG" width="399" height="352" />
+
 - Quadrique (Ellipsoide, Hyperboloide)
 
 <img src="/First_Project/Assets/Img/Ellipsoide.PNG" data-canonical-src="/First_Project/Assets/Img/Ellipsoide.PNG" width="199" height="199" /> <img src="/First_Project/Assets/Img/Hyperbole.PNG" data-canonical-src="/First_Project/Assets/Img/Hyperbole.PNG" width="199" height="199" />
