@@ -7,17 +7,11 @@ Gamagora 2019 - Modélisation Géométrique
 Génération Procédurale de Meshs :
 - Plan
 - Cube
-
-![Cube](/First_Project/Assets/Img/Cube.PNG)
 - Cylindre
-
-![Cylindre](/First_Project/Assets/Img/Capsule.PNG)
 - Cone (avec troncage possible)
-
-![Cone](/First_Project/Assets/Img/Cone.PNG)
 - Sphere
 
-![Sphere](/First_Project/Assets/Img/Sphère.PNG)
+<img src="/First_Project/Assets/Img/Cube.PNG" data-canonical-src="/First_Project/Assets/Img/Cube.PNG" width="299" height="299" /> <img src="/First_Project/Assets/Img/Capsule.PNG" data-canonical-src="/First_Project/Assets/Img/Capsule.PNG" width="299" height="299" /> <img src="/First_Project/Assets/Img/Cone.PNG" data-canonical-src="/First_Project/Assets/Img/Cone.PNG" width="299" height="299" /> <img src="/First_Project/Assets/Img/Sphère.PNG" data-canonical-src="/First_Project/Assets/Img/Sphère.PNG" width="299" height="299" />
 
 ## TP 2 :
 Création de modèles volumiques :
