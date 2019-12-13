@@ -8,10 +8,10 @@ Génération Procédurale de Meshs :
 - Plan
 - Cube
 - Cylindre
-- Cone (avec troncage possible)
-- Sphere
 
 <img src="/First_Project/Assets/Img/Cube.PNG" data-canonical-src="/First_Project/Assets/Img/Cube.PNG" width="199" height="199" /> <img src="/First_Project/Assets/Img/Capsule.PNG" data-canonical-src="/First_Project/Assets/Img/Capsule.PNG" width="299" height="199" /> 
+- Cone (avec troncage possible)
+- Sphere
 
 <img src="/First_Project/Assets/Img/Cone.PNG" data-canonical-src="/First_Project/Assets/Img/Cone.PNG" width="259" height="199" /> <img src="/First_Project/Assets/Img/Sphère.PNG" data-canonical-src="/First_Project/Assets/Img/Sphère.PNG" width="219" height="199" />
 
