@@ -14,7 +14,9 @@ Génération Procédurale de Meshs :
 ## TP 2 :
 Création de modèles volumiques :
 - Sphère
+![Sphère Volumique](/Assets/Img/VolumicSphere.png)
 - Quadrique
+<img src="/First_Project/Assets/Img/Ellipsoide.png" data-canonical-src="/First_Project/Assets/Img/Ellipsoide.png" width="299" height="299" /> <img src="/First_Project/Assets/Img/testBox.png" data-canonical-src="/First_Project/Assets/Img/testBox.png" width="299" height="299" />
 - Ajout de fonctionnalités d'Intersection et d'Union
 
 ## TP 3 :
