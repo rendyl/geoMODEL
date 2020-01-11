@@ -1,7 +1,7 @@
 # geoMODEL
 Gamagora 2019 - Modélisation Géométrique
 
-*Compilation des TP de Modélisation Géométrique*
+*Compilation des TP de Modélisation Géométrique sur Unity*
 
 ## TP 1 :
 Génération Procédurale de Meshs :
